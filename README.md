@@ -1,20 +1,5 @@
 ### Hi there 👋
 
-<!--
-**lwf12332112/lwf12332112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
 
 
@@ -27,9 +12,9 @@ Here are some ideas to get you started:
 😄很高兴你点开了我的主页
 
 - 🔭 我是一个后端工程师
-- 🌱 开源了两个仓库：austin和athena
-- 👯 维护了两个公众号：Java3y和对线面试官
-- 📫 你可以通过微信搜**Java3y**联系我
+- 🌱 热爱计算机行业，是一名热爱生活的程序猿
+- 👯 你可以叫我痴心绝对
+- 📫 你可以通过微信搜18870106335联系我
 - ⚡ 希望我写下的东西能帮助到你
 ————————————————
 版权声明：本文为CSDN博主「吨吨不打野」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
