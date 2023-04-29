@@ -6,7 +6,7 @@
 
 ### 你好 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=lwf12332112&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=authorlwf&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 
 😄很高兴你点开了我的主页
